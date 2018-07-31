@@ -39,7 +39,7 @@ Why does the list of objectives mention above matter? What benefit can we derive
  
 ### Technical Writeup
 
-Please refer to the approprite portion of the portfolio section to read the detailed project write up. 
+Please refer to the approprite portion of the portfolio section to read the [**Detailed Project Writeup**](https://portfolio.mshah.info/car-price/). 
 
 ### Code Explanation
 
